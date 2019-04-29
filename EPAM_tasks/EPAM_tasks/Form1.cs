@@ -44,7 +44,7 @@ namespace EPAM_tasks
             int[] arr = Methods.StringToDigitsArray(textBox6.Text);
             int newValue = int.Parse(textBox10.Text);
 
-            textBox8.Text = $"Данное значение {Methods.ConvertBool(Methods.IsContains(arr, newValue))}содержится в заданном массиве";
+            textBox8.Text = $"Данное значение {Methods.ConvertBool(Methods.OptimalIsContains(arr, newValue))}содержится в заданном массиве";
         }
 
         private void button5_Click(object sender, EventArgs e)
