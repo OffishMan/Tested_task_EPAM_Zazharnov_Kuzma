@@ -1,7 +1,0 @@
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\bin\Debug\ConsoleTestEpamApp.exe.config
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\bin\Debug\ConsoleTestEpamApp.exe
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\bin\Debug\ConsoleTestEpamApp.pdb
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\obj\Debug\ConsoleTestEpamApp.csprojAssemblyReference.cache
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\obj\Debug\ConsoleTestEpamApp.csproj.CoreCompileInputs.cache
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\obj\Debug\ConsoleTestEpamApp.exe
-C:\Users\zajar\source\repos\ConsoleTestEpamApp\ConsoleTestEpamApp\obj\Debug\ConsoleTestEpamApp.pdb

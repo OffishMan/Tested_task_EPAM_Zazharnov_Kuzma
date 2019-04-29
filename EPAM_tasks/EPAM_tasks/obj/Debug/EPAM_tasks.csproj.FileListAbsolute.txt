@@ -1,0 +1,10 @@
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\bin\Debug\EPAM_tasks.exe.config
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\bin\Debug\EPAM_tasks.exe
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\bin\Debug\EPAM_tasks.pdb
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.csprojAssemblyReference.cache
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.Form1.resources
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.Properties.Resources.resources
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.csproj.GenerateResource.cache
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.csproj.CoreCompileInputs.cache
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.exe
+C:\Users\zajar\source\repos\EPAM_tasks\EPAM_tasks\obj\Debug\EPAM_tasks.pdb
